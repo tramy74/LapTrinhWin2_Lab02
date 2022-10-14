@@ -1,0 +1,16 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\bin\Debug\Bai3.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\bin\Debug\Bai3.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\bin\Debug\Bai3.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\bin\Debug\Bai3.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\bin\Debug\Bai3.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\bin\Debug\Bai3.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-NguyenPhanTraMy-47.01.104.132\1.BaiTapTrenLop\Bai3\obj\Debug\Bai3.pdb

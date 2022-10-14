@@ -1,0 +1,8 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\bin\Debug\Bai1.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\bin\Debug\Bai1.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\bin\Debug\Bai1.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\obj\Debug\Bai1.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\LAB02-Nguyễn Phan Trà My-47.01.104.132\1.BaiTapTrenLop\Bai1\obj\Debug\Bai1.pdb
